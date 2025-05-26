@@ -82,7 +82,6 @@ This Power BI dashboard offers a clear, interactive, and insightful analysis of 
 
 
 
-📌 **Author:** _**Tushar Govind Khairnar**_  
-
-📌 **GitHub Repository:** [Your GitHub Profile](https://github.com/Gojo-T)
+## 📌 **Author:** _**Tushar Govind Khairnar**_ 
+## 📌 **GitHub Repository:** [My GitHub Profile](https://github.com/Gojo-T)
 
