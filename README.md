@@ -80,8 +80,9 @@ This Power BI dashboard offers a clear, interactive, and insightful analysis of 
 
 ---
 
-## 📧 Contact
 
-For feedback or questions, feel free to reach out via [Your GitHub Profile](https://github.com/Gojo-T) or open an issue in this repository.
 
----
+📌 **Author:** _**Tushar Govind Khairnar**_  
+
+📌 **GitHub Repository:** [Your GitHub Profile](https://github.com/Gojo-T)
+
